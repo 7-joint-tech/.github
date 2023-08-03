@@ -105,7 +105,9 @@ In addition to official documentation, the community can also find valuable reso
 
 - **Medium:** A blogging platform with numerous technical articles: https://medium.com/
 
+## **Fun Fact about 7Joint Tech:**
 
+At 7Joint Tech, our team is not only passionate about technology and coding but also about exploring the world of virtual reality. During breaks, you might catch us taking mini virtual adventures and experiencing incredible virtual landscapes together. Embracing the immersive world of VR allows us to step away from the screens momentarily while fueling our creativity and curiosity. So, if you ever visit our office, don't be surprised to find us virtually climbing mountains or exploring distant galaxies between coding sessions! 🚀🌌🎮
 
 
 <!--(Note: The website and contact information should be added to the guidelines before sharing it.)
