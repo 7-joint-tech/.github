@@ -1,5 +1,5 @@
 ## Hi there 👋
-![7joint flyer](7Joints1.jpg ){:height="10px" width="10px"}
+![7joint flyer](7Joints1.jpg)
 ### At Seven Joint Technology, we are your ultimate digital marketing agency. With our expertise in web development and design services, media buying, pay-per-click, social marketing, branding and  graphics design, we help businesses thrive in the online world. Whether you need a stunning website, effective advertising campaigns, or eye-catching visuals, our team has got you covered. Take your brand to new heights today. Contact us now for a free consultation and discover how we can transform your online presence.
 <!--
 
