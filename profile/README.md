@@ -1,8 +1,8 @@
 ## Hi there 👋
 
- <p align="center">
-  <img src="7Joints1.jpg" alt="7joint flyer" width="600" height="300">
-</p>
+
+  <img src="7Joints1.jpg" alt="7joint flyer" width="1000" height="400">
+
 
 # GitHub Contribution Guidelines for 7Joint Tech
 
