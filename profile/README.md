@@ -68,6 +68,45 @@ Thank you for your interest in contributing to 7Joint Tech. Your contributions a
 
 [Website/Contact Information Here]
 
+## Useful resources
+The community can find useful documentation for the technologies used by 7Joint Tech at the following locations:
+
+1. **React:**
+   - Official React Documentation: https://reactjs.org/docs/
+   - React API Reference: https://reactjs.org/docs/react-api.html
+   - React Getting Started: https://reactjs.org/docs/getting-started.html
+
+2. **Vite:**
+   - Official Vite Documentation: https://vitejs.dev/guide/
+   - Vite API Reference: https://vitejs.dev/config/
+   - Vite GitHub Repository: https://github.com/vitejs/vite
+
+3. **Tailwind CSS:**
+   - Official Tailwind CSS Documentation: https://tailwindcss.com/docs/
+   - Tailwind CSS Utility Reference: https://tailwindcss.com/docs/utility-first
+   - Tailwind CSS GitHub Repository: https://github.com/tailwindlabs/tailwindcss
+
+4. **Node.js:**
+   - Official Node.js Documentation: https://nodejs.org/en/docs/
+   - Node.js API Reference: https://nodejs.org/api/
+   - Node.js GitHub Repository: https://github.com/nodejs/node
+
+In addition to official documentation, the community can also find valuable resources and discussions on online platforms such as:
+
+- **Stack Overflow:** A Q&A platform where developers share their knowledge and ask questions: https://stackoverflow.com/
+
+- **GitHub Issues:** For the specific projects' repositories, where users can report issues, ask questions, or participate in discussions: 
+  - React GitHub Issues: https://github.com/facebook/react/issues
+  - Vite GitHub Issues: https://github.com/vitejs/vite/issues
+  - Tailwind CSS GitHub Issues: https://github.com/tailwindlabs/tailwindcss/issues
+  - Node.js GitHub Issues: https://github.com/nodejs/node/issues
+
+- **Dev Community:** A platform for sharing and discovering developer content: https://dev.to/
+
+- **Medium:** A blogging platform with numerous technical articles: https://medium.com/
+
+
+
 
 <!--(Note: The website and contact information should be added to the guidelines before sharing it.)
 
